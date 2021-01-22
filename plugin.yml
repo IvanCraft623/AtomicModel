@@ -1,0 +1,15 @@
+---
+name: AtomicModel
+version: 0.0.1
+main: IvanCraft623\AtomicModel\AtomicModel
+description: A plugin that spawns the atomic model of the linear alkylbenzene sulfonate
+api: 3.0.0
+commands:
+  modeloa:
+    description: Atomic Model commands
+permissions:
+  modeloa.cmd.spawn:
+    description: Permission to use /modeloa spawn
+  modeloa.cmd.setpos:
+    description: Permission to use /modeloa sepos
+...
