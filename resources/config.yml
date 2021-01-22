@@ -1,0 +1,16 @@
+---
+#AtomicModel Configs
+
+AtomicModelPos:
+  X: ""
+  "Y": ""
+  Z: ""
+  world: ""
+
+# Messages:
+Message.AtomicModel.Spawn: "You have successfully placed an atomic model!"
+Message.AtomicModel.SetPos: "The Atomic Model position has been set correctly!"
+Message.AtomicModel.Tp: "You have teleported to the linear alkylbenzene sulfonate 3D Atomic Model"
+Message.AtomicModel.isNotSetPos: "The position of the 3D Atomic Model has not yet been established"
+Message.AtomicModel.Kill: "You have successfully killed the Atomic Model"
+...
